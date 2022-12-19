@@ -2,5 +2,6 @@
 using namespace std;
 main()
 {
-  cout<<"Welcome..";
+  cout<<"Welcome";
+  cout<<"Spark Institute";
 }
